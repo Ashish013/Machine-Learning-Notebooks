@@ -5,7 +5,7 @@ This repository contains code submitted for the final evaluation of Machine Lear
 i) Fetal health prediction
 ii) Stroke predicition
 
-## Foetal health prediction
+## Fetal health prediction
 
 In this project, we first explored different strategies to tackle the severe data imbalance in the data using simple under-sampling/over-sampling, Synthetic Minority Oversampling Technique (SMOTE) etc.
 Then after pre-processing the data and conducting Explanatory Data Analysis (EDA), we explored an exhaustive list of different machine learning algorithms such as logistic regression, Support Vector Machines with varying kernels and decision trees to classify the foetal health.
